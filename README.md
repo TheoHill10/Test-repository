@@ -15,4 +15,3 @@ I need to do more javascript practise using [Codewars](https://www.codewars.com/
 
 ![image](https://i.ibb.co/sd5V1q76/id-Qz-Xb-n-Ii-1791985983212.jpg)
 
-![image](image.png)
